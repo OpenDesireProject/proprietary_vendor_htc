@@ -14,7 +14,7 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
-	vendor/htc/saga/proprietary/lib/libcamera.so:obj/lib/libcamera.so
+    vendor/htc/saga/proprietary/lib/libcamera.so:obj/lib/libcamera.so
 
 # All the blobs necessary for saga
 PRODUCT_COPY_FILES += \
