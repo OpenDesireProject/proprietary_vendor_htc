@@ -60,6 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/msm7x30-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/htc/msm7x30-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
