@@ -45,6 +45,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/msm7x30-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/htc/msm7x30-common/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
     vendor/htc/msm7x30-common/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \

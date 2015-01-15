@@ -30,6 +30,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_default_video.so:system/lib/libchromatix_s5k4e5yx_default_video.so \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_hfr.so:system/lib/libchromatix_s5k4e5yx_hfr.so \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_preview.so:system/lib/libchromatix_s5k4e5yx_preview.so \
-    vendor/htc/ace/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/ace/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/ace/proprietary/lib/hw/gps.spade.so:system/lib/hw/gps.spade.so
