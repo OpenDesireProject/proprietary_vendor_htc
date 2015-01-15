@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
     vendor/htc/msm7x30-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/msm7x30-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/htc/msm7x30-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \

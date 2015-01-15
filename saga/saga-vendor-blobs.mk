@@ -24,5 +24,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/saga/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_default_video.so:/system/lib/libchromatix_s5k4e1gx_default_video.so \
-    vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so \
-    vendor/htc/saga/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so
+    vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so
