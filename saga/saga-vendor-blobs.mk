@@ -18,10 +18,6 @@ PRODUCT_COPY_FILES += \
 
 # All the blobs necessary for saga
 PRODUCT_COPY_FILES += \
-    vendor/htc/saga/proprietary/bin/awb_camera:/system/bin/awb_camera \
-    vendor/htc/saga/proprietary/bin/lsc_camera:/system/bin/lsc_camera \
-    vendor/htc/saga/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
-    vendor/htc/saga/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/saga/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_default_video.so:/system/lib/libchromatix_s5k4e1gx_default_video.so \
     vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so

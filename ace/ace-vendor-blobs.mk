@@ -13,10 +13,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-    vendor/htc/ace/proprietary/bin/awb_camera:system/bin/awb_camera \
-    vendor/htc/ace/proprietary/bin/lsc_camera:system/bin/lsc_camera \
-    vendor/htc/ace/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/htc/ace/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8810_default_video.so:system/lib/libchromatix_ov8810_default_video.so \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8810_preview.so:system/lib/libchromatix_ov8810_preview.so \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8830_default_video.so:system/lib/libchromatix_ov8830_default_video.so \
