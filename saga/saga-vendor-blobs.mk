@@ -19,6 +19,9 @@ PRODUCT_COPY_FILES += \
 # All the blobs necessary for saga
 PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/bin/snd3254:system/bin/snd3254 \
+    vendor/htc/saga/proprietary/etc/firmware/default.acdb:system/etc/firmware/default.acdb \
+    vendor/htc/saga/proprietary/etc/firmware/default_org.acdb:system/etc/firmware/default_org.acdb \
+    vendor/htc/saga/proprietary/etc/firmware/default_org_wb.acdb:system/etc/firmware/default_org_wb.acdb \
     vendor/htc/saga/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_default_video.so:/system/lib/libchromatix_s5k4e1gx_default_video.so \
     vendor/htc/saga/proprietary/lib/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so \

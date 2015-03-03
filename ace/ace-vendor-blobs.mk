@@ -14,6 +14,8 @@
 
 PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/bin/snd3254:system/bin/snd3254 \
+    vendor/htc/ace/proprietary/etc/firmware/default.acdb:system/etc/firmware/default.acdb \
+    vendor/htc/ace/proprietary/etc/firmware/default_org.acdb:system/etc/firmware/default_org.acdb \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8810_default_video.so:system/lib/libchromatix_ov8810_default_video.so \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8810_preview.so:system/lib/libchromatix_ov8810_preview.so \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8830_default_video.so:system/lib/libchromatix_ov8830_default_video.so \
