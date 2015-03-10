@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/bin/bma150_usr:system/bin/bma150_usr \
     vendor/htc/msm7x30-common/proprietary/bin/lsc_camera:system/bin/lsc_camera \
     vendor/htc/msm7x30-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/htc/msm7x30-common/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -50,6 +51,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/msm7x30-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/msm7x30-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
     vendor/htc/msm7x30-common/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
     vendor/htc/msm7x30-common/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \

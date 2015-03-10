@@ -13,7 +13,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-    vendor/htc/ace/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/ace/proprietary/etc/firmware/default.acdb:system/etc/firmware/default.acdb \
     vendor/htc/ace/proprietary/etc/firmware/default_org.acdb:system/etc/firmware/default_org.acdb \
     vendor/htc/ace/proprietary/lib/libchromatix_ov8810_default_video.so:system/lib/libchromatix_ov8810_default_video.so \
@@ -28,5 +27,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k3h2yx_preview.so:system/lib/libchromatix_s5k3h2yx_preview.so \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_default_video.so:system/lib/libchromatix_s5k4e5yx_default_video.so \
     vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_hfr.so:system/lib/libchromatix_s5k4e5yx_hfr.so \
-    vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_preview.so:system/lib/libchromatix_s5k4e5yx_preview.so \
-    vendor/htc/ace/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so
+    vendor/htc/ace/proprietary/lib/libchromatix_s5k4e5yx_preview.so:system/lib/libchromatix_s5k4e5yx_preview.so
