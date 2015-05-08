@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/htc/msm7x30-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/msm7x30-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/htc/msm7x30-common/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
@@ -71,4 +72,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/htc/msm7x30-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/htc/msm7x30-common/proprietary/lib/hw/camera.vendor.msm7x30.so:system/lib/hw/camera.vendor.msm7x30.so
+    vendor/htc/msm7x30-common/proprietary/lib/hw/camera.vendor.msm7x30.so:system/lib/hw/camera.vendor.msm7x30.so \
+    vendor/htc/msm7x30-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/htc/msm7x30-common/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/htc/msm7x30-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/htc/msm7x30-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/htc/msm7x30-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
